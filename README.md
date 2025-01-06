@@ -1,5 +1,7 @@
 # Doctor Appointment Booking System
 
+![doctor-appointment](https://github.com/user-attachments/assets/5ad2140b-f82a-4b48-adf2-4775fbac211b)
+
 ## Overview
 
 The **Doctor Appointment Booking System** is a full-stack web application built to streamline the process of booking doctor appointments. It features a modern frontend using **Vite React** and **Tailwind CSS**, and a robust backend with a **microservice-based architecture** powered by **Spring Boot**.
