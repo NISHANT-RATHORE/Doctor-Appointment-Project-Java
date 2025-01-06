@@ -33,7 +33,7 @@ The **Doctor Appointment Booking System** is a full-stack web application built 
 ### Database and Hosting
 - **MongoDB Atlas**: Used for storing user, doctor, and appointment data.
 - **Cloudinary**: Used for managing and storing user profile images.
-- **Deployment**: Microservices deployed on AWS ec2 instances and frontend deployed on vercel.
+- **Deployment**: Microservices deployed on render platform and frontend deployed on vercel.
 
 ## Tech Stack
 
